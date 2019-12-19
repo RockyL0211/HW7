@@ -1,0 +1,14 @@
+﻿D:\Apps Document\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\Apps Document\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(8,31): warning C4047: '函式': 'FILE **' 與 'char [12]' 間接取值的層級不同
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(8,31): warning C4024: 'fopen_s': 型式和實質參數 1 不同的類型
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(8,39): warning C4047: '函式': 'const char *' 與 'int' 間接取值的層級不同
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(8,39): warning C4024: 'fopen_s': 型式和實質參數 3 不同的類型
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(8,40): warning C4047: '=': 'FILE *' 與 'errno_t' 間接取值的層級不同
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(9,30): warning C4047: '函式': 'FILE **' 與 'char [11]' 間接取值的層級不同
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(9,30): warning C4024: 'fopen_s': 型式和實質參數 1 不同的類型
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(9,38): warning C4047: '函式': 'const char *' 與 'int' 間接取值的層級不同
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(9,38): warning C4024: 'fopen_s': 型式和實質參數 3 不同的類型
+C:\Users\user\Downloads\HW8-master\HW8-master\P15\source\main.c(9,39): warning C4047: '=': 'FILE *' 與 'errno_t' 間接取值的層級不同
+  P15.vcxproj -> C:\Users\user\Downloads\HW8-master\HW8-master\P15\HW\P15\P15\..\..\..\temp\debug\P15.exe
